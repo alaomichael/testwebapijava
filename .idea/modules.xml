@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/testwebapi.iml" filepath="$PROJECT_DIR$/.idea/testwebapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testwebapi/testwebapi.iml" filepath="$PROJECT_DIR$/testwebapi/testwebapi.iml" />
     </modules>
   </component>
 </project>

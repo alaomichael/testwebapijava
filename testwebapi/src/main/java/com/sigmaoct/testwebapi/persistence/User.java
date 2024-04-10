@@ -1,4 +1,4 @@
-package com.sigmaoct.testwebapi;
+package com.sigmaoct.testwebapi.persistence;
 
 import jakarta.persistence.*;
 import lombok.*;
